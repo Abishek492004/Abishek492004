@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Electronics and Communication Engineer | 
 Looking for Software Engineer Role
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]([https://hareesh.web.app/](https://abishek492004.github.io/abishek-portfolio/))                                                 
+- 🔭 Here's my [portfolio]([https://abishek492004.github.io/abishek-portfolio/])                                                 
 - 🌱 I’m currently learning DSA
 - Engineeing at Paavai Engineering College,
 - 📫 How to reach me:
